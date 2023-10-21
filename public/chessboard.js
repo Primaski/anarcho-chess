@@ -1,0 +1,3 @@
+var gameBoard = {};
+
+gameBoard.pieces =
