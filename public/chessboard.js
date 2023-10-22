@@ -1,3 +1,3 @@
 var gameBoard = {};
 
-gameBoard.pieces =
+gameBoard.pieces = [ "pawn", "knight", "bishop", "rook", "queen", "king" ]
